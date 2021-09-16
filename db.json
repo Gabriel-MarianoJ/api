@@ -1,16 +1,4 @@
 {
-  "personagens-genshin": [
-    {"id": 1, "nome": "Hu Tao", "visao": "Pyro", "local": "Liyue"},
-    {"id": 2, "nome": "Raiden Shogun", "visao": "Electro", "local": "Inazuma"},
-    {"id": 3, "nome": "Fischl", "visao": "Electro", "local": "Mondstad"},
-    {"id": 4, "nome": "Zhongli", "visao": "Geo", "local": "Liyue"},
-    {"id": 5, "nome": "Fischl", "visao": "Electro", "local": "Mondstad"},
-    {"id": 6, "nome": "Kaedehara Kazuha", "visao": "Anemo", "local": "Inazuma"},
-    {"id": 7, "nome": "Albedo", "visao": "Geo", "local": "Mondstad"},
-    {"id": 8, "nome": "Rosaria", "visao": "Cryo", "local": "Mondstad"},
-    {"id": 9, "nome": "Klee", "visao": "Pyro", "local": "Mondstad"},
-    {"id": 10, "nome": "Eula", "visao": "Cryo", "local": "Mondstad"}
-  ],
   "livros": [
     {"id": 1, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"},
     {"id": 2, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"}
