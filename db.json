@@ -1,6 +1,9 @@
 {
   "livros": [
-    {"id": 1, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"},
-    {"id": 2, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"}
+    {"id": 1, "nome": "A Menina que Roubava Livros", "author": "Markus Zusak", "data-publicacao": "2005"},
+    {"id": 2, "nome": "A Invenção de Hugo Cabret", "author": "Brian Sielznick", "data-publicacao": "2007"},
+    {"id": 3, "nome": "Diário de Anne Frank", "author": "Anne Frank", "data-publicacao": "1947"},
+    {"id": 4, "nome": "A Cabana", "author": "William P. Young", "data-publicacao": "2007"},
+    {"id": 5, "nome": "O Vendedor de Sonhos", "author": "Augusto Cury", "data-publicacao": "2008"}
   ]
 }
