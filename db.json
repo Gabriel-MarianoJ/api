@@ -1,9 +1,9 @@
 {
   "livros": [
-    {"id": 1, "nome": "A Menina que Roubava Livros", "author": "Markus Zusak", "data-publicacao": "2005"},
-    {"id": 2, "nome": "A Invenção de Hugo Cabret", "author": "Brian Sielznick", "data-publicacao": "2007"},
-    {"id": 3, "nome": "Diário de Anne Frank", "author": "Anne Frank", "data-publicacao": "1947"},
-    {"id": 4, "nome": "A Cabana", "author": "William P. Young", "data-publicacao": "2007"},
-    {"id": 5, "nome": "O Vendedor de Sonhos", "author": "Augusto Cury", "data-publicacao": "2008"}
+    {"id": 1, "nome": "A Menina que Roubava Livros", "author": "Markus Zusak", "data-publicacao": "2005", "img": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12100879-287-426/1006788139.jpg?v=637142218101470000"},
+    {"id": 2, "nome": "A Invenção de Hugo Cabret", "author": "Brian Sielznick", "data-publicacao": "2007", "img": "http://4.bp.blogspot.com/-rJ9AKJT1Ke8/Vhcd6myKzoI/AAAAAAAAFSQ/C1fYdCMIk8Y/s1600/A%2BInven%25C3%25A7%25C3%25A3o%2Bde%2BHugo%2BCabret%2BCapa.png"},
+    {"id": 3, "nome": "Diário de Anne Frank", "author": "Anne Frank", "data-publicacao": "1947", "img": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12105091/1004993142.jpg?v=637142232777270000"},
+    {"id": 4, "nome": "A Cabana", "author": "William P. Young", "data-publicacao": "2007", "img": "https://images-na.ssl-images-amazon.com/images/I/91eXvRufnFL.jpg"},
+    {"id": 5, "nome": "O Vendedor de Sonhos", "author": "Augusto Cury", "data-publicacao": "2008", "img": "https://imagens.lelivros.love/2014/02/Download-O-Vendedor-de-Sonhos-O-Chamado-Augusto-Cury-em-ePUB-mobi-e-PDF.jpg"}
   ]
 }
