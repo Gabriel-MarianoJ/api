@@ -11,4 +11,7 @@
     {"id": 9, "nome": "Klee", "visao": "Pyro", "local": "Mondstad"},
     {"id": 10, "nome": "Eula", "visao": "Cryo", "local": "Mondstad"}
   ]
+  "livros": [
+    {"id": 1, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"}
+  ]
 }
