@@ -12,6 +12,7 @@
     {"id": 10, "nome": "Eula", "visao": "Cryo", "local": "Mondstad"}
   ],
   "livros": [
-    {"id": 1, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"}
+    {"id": 1, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"},
+    {"id": 2, "nome": "A Menina que roubava livros", "author": "Markus Zusak", "data-publicacao": "2005"}
   ]
 }
